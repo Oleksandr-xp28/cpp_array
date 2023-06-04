@@ -2,7 +2,7 @@
 //
 
 #include <iostream>
-#include <cstdlib>
+#include <cstdlib> // rand() and srand();
 #include <ctime>
 using namespace std;
 
