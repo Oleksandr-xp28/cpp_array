@@ -4,6 +4,6 @@
 #include <iostream>
 using namespace std;
 
-void main(){}
+int main(){}
 
 // In the future, to open this project again, go to File > Open > Project and select the .sln file
